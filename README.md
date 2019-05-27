@@ -12,6 +12,7 @@ Starting knowledge
 I had some programming experience with Pure Data, zero experience with Python.
 
 
+
 Project
 
 I wanted to teach computer to generate usable patches for a simple software synthesizer.
