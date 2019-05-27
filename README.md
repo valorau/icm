@@ -1,19 +1,21 @@
+Rauli Valo
+
 Intelligent Computational Media - 
 Generating synth patches using Principal Component Analysis
 
-Rauli Valo
+
 
 Project video on Youtube: https://youtu.be/AhfPI4CgHPA
 Project video for download: https://tinyurl.com/yxceznoe
 
 
-Starting knowledge
+[Starting knowledge]
 
 I had some programming experience with Pure Data, zero experience with Python.
 
 
 
-Project
+[Project]
 
 I wanted to teach computer to generate usable patches for a simple software synthesizer.
 
