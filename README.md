@@ -1,4 +1,4 @@
-Intelligent Computational Media 
+Intelligent Computational Media - 
 Generating synth patches using Principal Component Analysis
 
 Rauli Valo
