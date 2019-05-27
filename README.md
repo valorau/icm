@@ -21,7 +21,7 @@ I wanted to teach computer to generate usable patches for a simple software synt
 
 I found a Pure Data clone of Roland SH-101 on pdpatchrepo.info coded by pseudonym jersupereq. I modified the program so that it could randomize new patches, save them as .txt files and load patches from a .txt file back into the program.
 
-Then I randomized new sounds until I got about eighty patches that I totally subjectively deemed to be good. In this context “good” means that I could imagine using them as a part of an electronic music composition. Over hundred randomized patches were deemed bad as I couldn't think of any use for them in conventional compositions. Also about a hundred were skipped altogether as they were not good or bad, just boring. The parameters of good patches were saved into one txt file and the parameters of bad ones into another.
+Then I randomized new sounds until I got about eighty patches that I totally subjectively deemed to be good. In this context “good” means that I could imagine using them as a part of an electronic music composition. Over hundred randomized patches were deemed bad as I couldn't think of any use for them in conventional compositions. Also about a hundred were skipped altogether as they were neither good or bad, just boring. The parameters of good patches were saved into one txt file and the parameters of bad ones into another.
 
 Then I imported the good patch parameters (79 sets of 21 parameters) into JupyterLab, scaled them and ran them through Principal Component analysis. I experimented with different numbers of components ending up to using three. 
 
